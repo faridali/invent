@@ -1,0 +1,215 @@
+::selection
+{
+	background-color:#e7ddd8;
+}
+::-moz-selection
+{
+	background-color:#e7ddd8;
+}
+.doc-loader td 
+{
+	background-color: #ffffff;
+}
+.shadow
+{
+	background-color: #4c403d;
+}
+blockquote
+{
+	color: #BBB3B1;
+	
+}
+ul.slides
+{
+	color: #FFFFFF;	
+	border-color: #CCC1BD;
+}
+div.main-menu nav ul li.active, div.main-menu nav ul li:hover 
+{
+	background-color: rgb(165, 40, 40);	
+}
+section h4
+{
+	color: #3f3532;
+}
+div.services section p a
+{
+	color: #00cccc;
+}
+ul.read-more.service-read-more li a, ul.read-more.pricing-read-more li a
+{
+	color: #C52F30;	
+}
+.home-title, .title-description
+{
+	color: white;
+}
+p.blog-section-title a:hover
+{
+	color: #786a65;
+}
+.navigation-previous a, .navigation-next a{
+	color: #786a65;
+}
+
+.featured_work_item_text
+{
+	color: #ffffff;
+}
+.work_item_text
+{
+	color: white;	
+}
+#filter li
+{
+	color: #76665e;
+}
+#filter li.current
+{
+	border-color: #C52F30;
+}
+.team
+{
+	border-color: #e6dfdb;
+}
+.white-border
+{
+	border-color: white;
+}
+.team-item-holder h4
+{
+	color: #3f3532;
+}
+.progress_bar_title
+{
+	color: white;
+}
+p.blog-section-title a
+{
+	color: #3f3532;
+}
+.book-title
+{
+color: #3f3532;
+}
+
+
+/*PRICING*/
+.pricing-table-small-content-holder
+{
+	color: white;
+}
+.pricing-table-small-title
+{
+	color: white;
+}
+.pricing-table-small-price
+{	
+	color: white;
+}
+.pricin-table-small-sign-up:hover
+{
+	background-color: #504b44 !important;
+}
+a.sign-up-link
+{
+	color: white;
+}
+
+/*COMMENT FORM*/
+.avatar{
+    border-color: #76665E;   
+}
+.comment-reply-link{
+	color: #fff;
+	background-color: #3f3532;
+}
+#commentform input#author, #commentform input#email {
+    background-color: #F5F1EC;
+	color: #76665e;
+}
+#commentform input#submit{      
+	color: #fff;
+	background-color: #3f3532;	
+}
+#commentform textarea{
+	background-color: #F5F1EC;
+	color: #76665e;
+}
+.logged-in-as a{
+	color: #76665e;
+}
+.comments-holder ol, .no-comments
+{
+	border-color: #bbb3b1;
+}
+
+/*TWITTER*/
+ul.tweets-content li a
+{
+	color: #76665e;	
+}
+
+/*CONTACT FORM*/
+ul#contact-form li #name, ul#contact-form li #contact-email, ul#contact-form li #website, ul#contact-form li #message
+{
+	background-color:#F5F1EC;
+	color: #76665e;
+}
+
+/*BUTTONS*/
+
+a.button.black 
+{	
+	background-color: #3f3532;		
+}
+a.button.red
+{
+background-color: #C52F30;
+}
+a.button.gray
+{
+background-color: #dad1cc;
+}
+a.button.black:hover 
+{
+	background-color: #524642;
+}
+a.button.red:hover 
+{
+	background-color: #524642;
+}
+a.button.gray:hover 
+{
+	background-color: #524642;
+}	
+a.button-border.white
+{
+	color: white;
+	border-color: white;
+}
+a.button-border.red
+{
+	color: #C52F30;
+	border-color: #C52F30;
+}
+a.button-border.black
+{
+	color: #3f3532;
+	border-color: #3f3532;
+}
+a.button-border.white:hover
+{
+	color: #ddd5cc;
+	border-color: #ddd5cc;
+}
+a.button-border.red:hover
+{
+	color: #ddd5cc;
+	border-color: #ddd5cc;
+}
+a.button-border.black:hover
+{
+	color: #ddd5cc;
+	border-color: #ddd5cc;
+}
